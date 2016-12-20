@@ -9,7 +9,7 @@ order: 100
 
 ## Wholesale Account Overview
 
-A Wholesale account will help you get preferred or bulk pricing, volume discounts and other exciting offers through our bulk purchasing portal called the Particle Wholesale store. Learn more [here](https://wholesale.particle.io).
+A Wholesale account will help you get preferred or bulk pricing, volume discounts and other exciting offers through our bulk purchasing portal called the Particle Wholesale Store. Learn more [here](https://wholesale.particle.io).
 
 
 ## Wholesale Account Application
@@ -71,7 +71,7 @@ Fill out the information that is requested, remember to check "Business" under t
 **CONGRATULATIONS!!** You now have an official Particle Account. When you have been accepted you will receive an email welcoming you to the Wholesale Store and you will be able to take advantage of special pricing and other exciting offers! Happy shopping! 
 
 
-*NOTE : -  Please email us your reseller certificates or A501.c3 certificate to get the tax breaks you are eligible for* 
+*NOTE : -  Please email us your reseller certificates or a 501(c)(3) certificate to receive the tax exemption status you are eligible for* 
 
 ## Any Other Questions
 
